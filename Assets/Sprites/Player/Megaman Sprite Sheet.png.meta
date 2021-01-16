@@ -1,0 +1,2986 @@
+fileFormatVersion: 2
+guid: 526b0884778f7154296e8a6cb88294a2
+timeCreated: 1507144518
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 56bb04281b2ecebc993804daccb913e2_0
+    21300002: 56bb04281b2ecebc993804daccb913e2_1
+    21300004: 56bb04281b2ecebc993804daccb913e2_2
+    21300006: 56bb04281b2ecebc993804daccb913e2_3
+    21300008: 56bb04281b2ecebc993804daccb913e2_4
+    21300010: 56bb04281b2ecebc993804daccb913e2_5
+    21300012: 56bb04281b2ecebc993804daccb913e2_6
+    21300014: 56bb04281b2ecebc993804daccb913e2_7
+    21300016: 56bb04281b2ecebc993804daccb913e2_8
+    21300018: 56bb04281b2ecebc993804daccb913e2_9
+    21300020: 56bb04281b2ecebc993804daccb913e2_10
+    21300022: 56bb04281b2ecebc993804daccb913e2_11
+    21300024: 56bb04281b2ecebc993804daccb913e2_12
+    21300026: 56bb04281b2ecebc993804daccb913e2_13
+    21300028: 56bb04281b2ecebc993804daccb913e2_14
+    21300030: 56bb04281b2ecebc993804daccb913e2_15
+    21300032: 56bb04281b2ecebc993804daccb913e2_16
+    21300034: 56bb04281b2ecebc993804daccb913e2_17
+    21300036: 56bb04281b2ecebc993804daccb913e2_18
+    21300038: 56bb04281b2ecebc993804daccb913e2_19
+    21300040: 56bb04281b2ecebc993804daccb913e2_20
+    21300042: 56bb04281b2ecebc993804daccb913e2_21
+    21300044: 56bb04281b2ecebc993804daccb913e2_22
+    21300046: 56bb04281b2ecebc993804daccb913e2_23
+    21300048: 56bb04281b2ecebc993804daccb913e2_24
+    21300050: 56bb04281b2ecebc993804daccb913e2_25
+    21300052: 56bb04281b2ecebc993804daccb913e2_26
+    21300054: 56bb04281b2ecebc993804daccb913e2_27
+    21300056: 56bb04281b2ecebc993804daccb913e2_28
+    21300058: 56bb04281b2ecebc993804daccb913e2_29
+    21300060: 56bb04281b2ecebc993804daccb913e2_30
+    21300062: 56bb04281b2ecebc993804daccb913e2_31
+    21300064: 56bb04281b2ecebc993804daccb913e2_32
+    21300066: 56bb04281b2ecebc993804daccb913e2_33
+    21300068: 56bb04281b2ecebc993804daccb913e2_34
+    21300070: 56bb04281b2ecebc993804daccb913e2_35
+    21300072: 56bb04281b2ecebc993804daccb913e2_36
+    21300074: 56bb04281b2ecebc993804daccb913e2_37
+    21300076: 56bb04281b2ecebc993804daccb913e2_38
+    21300078: 56bb04281b2ecebc993804daccb913e2_39
+    21300080: 56bb04281b2ecebc993804daccb913e2_40
+    21300082: 56bb04281b2ecebc993804daccb913e2_41
+    21300084: 56bb04281b2ecebc993804daccb913e2_42
+    21300086: 56bb04281b2ecebc993804daccb913e2_43
+    21300088: 56bb04281b2ecebc993804daccb913e2_44
+    21300090: 56bb04281b2ecebc993804daccb913e2_45
+    21300092: 56bb04281b2ecebc993804daccb913e2_46
+    21300094: 56bb04281b2ecebc993804daccb913e2_47
+    21300096: 56bb04281b2ecebc993804daccb913e2_48
+    21300098: 56bb04281b2ecebc993804daccb913e2_49
+    21300100: 56bb04281b2ecebc993804daccb913e2_50
+    21300102: 56bb04281b2ecebc993804daccb913e2_51
+    21300104: 56bb04281b2ecebc993804daccb913e2_52
+    21300106: 56bb04281b2ecebc993804daccb913e2_53
+    21300108: 56bb04281b2ecebc993804daccb913e2_54
+    21300110: 56bb04281b2ecebc993804daccb913e2_55
+    21300112: 56bb04281b2ecebc993804daccb913e2_56
+    21300114: 56bb04281b2ecebc993804daccb913e2_57
+    21300116: 56bb04281b2ecebc993804daccb913e2_58
+    21300118: 56bb04281b2ecebc993804daccb913e2_59
+    21300120: 56bb04281b2ecebc993804daccb913e2_60
+    21300122: 56bb04281b2ecebc993804daccb913e2_61
+    21300124: 56bb04281b2ecebc993804daccb913e2_62
+    21300126: 56bb04281b2ecebc993804daccb913e2_63
+    21300128: 56bb04281b2ecebc993804daccb913e2_64
+    21300130: 56bb04281b2ecebc993804daccb913e2_65
+    21300132: 56bb04281b2ecebc993804daccb913e2_66
+    21300134: 56bb04281b2ecebc993804daccb913e2_67
+    21300136: 56bb04281b2ecebc993804daccb913e2_68
+    21300138: 56bb04281b2ecebc993804daccb913e2_69
+    21300140: 56bb04281b2ecebc993804daccb913e2_70
+    21300142: 56bb04281b2ecebc993804daccb913e2_71
+    21300144: 56bb04281b2ecebc993804daccb913e2_72
+    21300146: 56bb04281b2ecebc993804daccb913e2_73
+    21300148: 56bb04281b2ecebc993804daccb913e2_74
+    21300150: 56bb04281b2ecebc993804daccb913e2_75
+    21300152: 56bb04281b2ecebc993804daccb913e2_76
+    21300154: 56bb04281b2ecebc993804daccb913e2_77
+    21300156: 56bb04281b2ecebc993804daccb913e2_78
+    21300158: 56bb04281b2ecebc993804daccb913e2_79
+    21300160: 56bb04281b2ecebc993804daccb913e2_80
+    21300162: 56bb04281b2ecebc993804daccb913e2_81
+    21300164: 56bb04281b2ecebc993804daccb913e2_82
+    21300166: 56bb04281b2ecebc993804daccb913e2_83
+    21300168: 56bb04281b2ecebc993804daccb913e2_84
+    21300170: 56bb04281b2ecebc993804daccb913e2_85
+    21300172: 56bb04281b2ecebc993804daccb913e2_86
+    21300174: 56bb04281b2ecebc993804daccb913e2_87
+    21300176: 56bb04281b2ecebc993804daccb913e2_88
+    21300178: 56bb04281b2ecebc993804daccb913e2_89
+    21300180: 56bb04281b2ecebc993804daccb913e2_90
+    21300182: 56bb04281b2ecebc993804daccb913e2_91
+    21300184: 56bb04281b2ecebc993804daccb913e2_92
+    21300186: 56bb04281b2ecebc993804daccb913e2_93
+    21300188: 56bb04281b2ecebc993804daccb913e2_94
+    21300190: 56bb04281b2ecebc993804daccb913e2_95
+    21300192: 56bb04281b2ecebc993804daccb913e2_96
+    21300194: 56bb04281b2ecebc993804daccb913e2_97
+    21300196: 56bb04281b2ecebc993804daccb913e2_98
+    21300198: 56bb04281b2ecebc993804daccb913e2_99
+    21300200: 56bb04281b2ecebc993804daccb913e2_100
+    21300202: 56bb04281b2ecebc993804daccb913e2_101
+    21300204: 56bb04281b2ecebc993804daccb913e2_102
+    21300206: 56bb04281b2ecebc993804daccb913e2_103
+    21300208: 56bb04281b2ecebc993804daccb913e2_104
+    21300210: 56bb04281b2ecebc993804daccb913e2_105
+    21300212: 56bb04281b2ecebc993804daccb913e2_106
+    21300214: 56bb04281b2ecebc993804daccb913e2_107
+    21300216: 56bb04281b2ecebc993804daccb913e2_108
+    21300218: 56bb04281b2ecebc993804daccb913e2_109
+    21300220: 56bb04281b2ecebc993804daccb913e2_110
+    21300222: 56bb04281b2ecebc993804daccb913e2_111
+    21300224: 56bb04281b2ecebc993804daccb913e2_112
+    21300226: 56bb04281b2ecebc993804daccb913e2_113
+    21300228: 56bb04281b2ecebc993804daccb913e2_114
+    21300230: 56bb04281b2ecebc993804daccb913e2_115
+    21300232: 56bb04281b2ecebc993804daccb913e2_116
+    21300234: 56bb04281b2ecebc993804daccb913e2_117
+    21300236: 56bb04281b2ecebc993804daccb913e2_118
+    21300238: 56bb04281b2ecebc993804daccb913e2_119
+    21300240: 56bb04281b2ecebc993804daccb913e2_120
+    21300242: 56bb04281b2ecebc993804daccb913e2_121
+    21300244: 56bb04281b2ecebc993804daccb913e2_122
+    21300246: 56bb04281b2ecebc993804daccb913e2_123
+    21300248: 56bb04281b2ecebc993804daccb913e2_124
+    21300250: 56bb04281b2ecebc993804daccb913e2_125
+    21300252: 56bb04281b2ecebc993804daccb913e2_126
+    21300254: 56bb04281b2ecebc993804daccb913e2_127
+    21300256: 56bb04281b2ecebc993804daccb913e2_128
+    21300258: 56bb04281b2ecebc993804daccb913e2_129
+    21300260: 56bb04281b2ecebc993804daccb913e2_130
+    21300262: 56bb04281b2ecebc993804daccb913e2_131
+    21300264: 56bb04281b2ecebc993804daccb913e2_132
+    21300266: 56bb04281b2ecebc993804daccb913e2_133
+    21300268: 56bb04281b2ecebc993804daccb913e2_134
+    21300270: 56bb04281b2ecebc993804daccb913e2_135
+    21300272: 56bb04281b2ecebc993804daccb913e2_136
+    21300274: 56bb04281b2ecebc993804daccb913e2_137
+    21300276: 56bb04281b2ecebc993804daccb913e2_138
+    21300278: 56bb04281b2ecebc993804daccb913e2_139
+    21300280: 56bb04281b2ecebc993804daccb913e2_140
+    21300282: 56bb04281b2ecebc993804daccb913e2_141
+    21300284: 56bb04281b2ecebc993804daccb913e2_142
+    21300286: 56bb04281b2ecebc993804daccb913e2_143
+    21300288: 56bb04281b2ecebc993804daccb913e2_144
+    21300290: 56bb04281b2ecebc993804daccb913e2_145
+    21300292: 56bb04281b2ecebc993804daccb913e2_146
+    21300294: 56bb04281b2ecebc993804daccb913e2_147
+    21300296: 56bb04281b2ecebc993804daccb913e2_148
+    21300298: 56bb04281b2ecebc993804daccb913e2_149
+    21300300: 56bb04281b2ecebc993804daccb913e2_150
+    21300302: 56bb04281b2ecebc993804daccb913e2_151
+    21300304: 56bb04281b2ecebc993804daccb913e2_152
+    21300306: 56bb04281b2ecebc993804daccb913e2_153
+    21300308: 56bb04281b2ecebc993804daccb913e2_154
+    21300310: 56bb04281b2ecebc993804daccb913e2_155
+    21300312: 56bb04281b2ecebc993804daccb913e2_156
+    21300314: 56bb04281b2ecebc993804daccb913e2_157
+    21300316: 56bb04281b2ecebc993804daccb913e2_158
+    21300318: 56bb04281b2ecebc993804daccb913e2_159
+    21300320: 56bb04281b2ecebc993804daccb913e2_160
+    21300322: 56bb04281b2ecebc993804daccb913e2_161
+    21300324: 56bb04281b2ecebc993804daccb913e2_162
+    21300326: 56bb04281b2ecebc993804daccb913e2_163
+    21300328: 56bb04281b2ecebc993804daccb913e2_164
+    21300330: 56bb04281b2ecebc993804daccb913e2_165
+    21300332: 56bb04281b2ecebc993804daccb913e2_166
+    21300334: 56bb04281b2ecebc993804daccb913e2_167
+    21300336: 56bb04281b2ecebc993804daccb913e2_168
+    21300338: 56bb04281b2ecebc993804daccb913e2_169
+    21300340: 56bb04281b2ecebc993804daccb913e2_170
+    21300342: 56bb04281b2ecebc993804daccb913e2_171
+    21300344: 56bb04281b2ecebc993804daccb913e2_172
+    21300346: 56bb04281b2ecebc993804daccb913e2_173
+    21300348: 56bb04281b2ecebc993804daccb913e2_174
+    21300350: 56bb04281b2ecebc993804daccb913e2_175
+    21300352: 56bb04281b2ecebc993804daccb913e2_176
+    21300354: 56bb04281b2ecebc993804daccb913e2_177
+    21300356: 56bb04281b2ecebc993804daccb913e2_178
+    21300358: 56bb04281b2ecebc993804daccb913e2_179
+    21300360: Megaman Sprite Sheet_0
+    21300362: Megaman Sprite Sheet_1
+    21300364: Megaman Sprite Sheet_2
+    21300366: Megaman Sprite Sheet_3
+    21300368: Megaman Sprite Sheet_4
+    21300370: Megaman Sprite Sheet_5
+    21300372: Megaman Sprite Sheet_6
+    21300374: Megaman Sprite Sheet_7
+    21300376: Megaman Sprite Sheet_8
+    21300378: Megaman Sprite Sheet_9
+    21300380: Megaman Sprite Sheet_10
+    21300382: Megaman Sprite Sheet_11
+    21300384: Megaman Sprite Sheet_12
+    21300386: Megaman Sprite Sheet_13
+    21300388: Megaman Sprite Sheet_14
+    21300390: Megaman Sprite Sheet_15
+    21300392: Megaman Sprite Sheet_16
+    21300394: Megaman Sprite Sheet_17
+    21300396: Megaman Sprite Sheet_18
+    21300398: Megaman Sprite Sheet_19
+    21300400: Megaman Sprite Sheet_20
+    21300402: Megaman Sprite Sheet_21
+    21300404: Megaman Sprite Sheet_22
+    21300406: Megaman Sprite Sheet_23
+    21300408: Megaman Sprite Sheet_24
+    21300410: Megaman Sprite Sheet_25
+    21300412: Megaman Sprite Sheet_26
+    21300414: Megaman Sprite Sheet_27
+    21300416: Megaman Sprite Sheet_28
+    21300418: Megaman Sprite Sheet_29
+    21300420: Megaman Sprite Sheet_30
+    21300422: Megaman Sprite Sheet_31
+    21300424: Megaman Sprite Sheet_32
+    21300426: Megaman Sprite Sheet_33
+    21300428: Megaman Sprite Sheet_34
+    21300430: Megaman Sprite Sheet_35
+    21300432: Megaman Sprite Sheet_36
+    21300434: Megaman Sprite Sheet_37
+    21300436: Megaman Sprite Sheet_38
+    21300438: Megaman Sprite Sheet_39
+    21300440: Megaman Sprite Sheet_40
+    21300442: Megaman Sprite Sheet_41
+    21300444: Megaman Sprite Sheet_42
+    21300446: Megaman Sprite Sheet_43
+    21300448: Megaman Sprite Sheet_44
+    21300450: Megaman Sprite Sheet_45
+    21300452: Megaman Sprite Sheet_46
+    21300454: Megaman Sprite Sheet_47
+    21300456: Megaman Sprite Sheet_48
+    21300458: Megaman Sprite Sheet_49
+    21300460: Megaman Sprite Sheet_50
+    21300462: Megaman Sprite Sheet_51
+    21300464: Megaman Sprite Sheet_52
+    21300466: Megaman Sprite Sheet_53
+    21300468: Megaman Sprite Sheet_54
+    21300470: Megaman Sprite Sheet_55
+    21300472: Megaman Sprite Sheet_56
+    21300474: Megaman Sprite Sheet_57
+    21300476: Megaman Sprite Sheet_58
+    21300478: Megaman Sprite Sheet_59
+    21300480: Megaman Sprite Sheet_60
+    21300482: Megaman Sprite Sheet_61
+    21300484: Megaman Sprite Sheet_62
+    21300486: Megaman Sprite Sheet_63
+    21300488: Megaman Sprite Sheet_64
+    21300490: Megaman Sprite Sheet_65
+    21300492: Megaman Sprite Sheet_66
+    21300494: Megaman Sprite Sheet_67
+    21300496: Megaman Sprite Sheet_68
+    21300498: Megaman Sprite Sheet_69
+    21300500: Megaman Sprite Sheet_70
+    21300502: Megaman Sprite Sheet_71
+    21300504: Megaman Sprite Sheet_72
+    21300506: Megaman Sprite Sheet_73
+    21300508: Megaman Sprite Sheet_74
+    21300510: Megaman Sprite Sheet_75
+    21300512: Megaman Sprite Sheet_76
+    21300514: Megaman Sprite Sheet_77
+    21300516: Megaman Sprite Sheet_78
+    21300518: Megaman Sprite Sheet_79
+    21300520: Megaman Sprite Sheet_80
+    21300522: Megaman Sprite Sheet_81
+    21300524: Megaman Sprite Sheet_82
+    21300526: Megaman Sprite Sheet_83
+    21300528: Megaman Sprite Sheet_84
+    21300530: Megaman Sprite Sheet_85
+    21300532: Megaman Sprite Sheet_86
+    21300534: Megaman Sprite Sheet_87
+    21300536: Megaman Sprite Sheet_88
+    21300538: Megaman Sprite Sheet_89
+    21300540: Megaman Sprite Sheet_90
+    21300542: Megaman Sprite Sheet_91
+    21300544: Megaman Sprite Sheet_92
+    21300546: Megaman Sprite Sheet_93
+    21300548: Megaman Sprite Sheet_94
+    21300550: Megaman Sprite Sheet_95
+    21300552: Megaman Sprite Sheet_96
+    21300554: Megaman Sprite Sheet_97
+    21300556: Megaman Sprite Sheet_98
+    21300558: Megaman Sprite Sheet_99
+    21300560: Megaman Sprite Sheet_100
+    21300562: Megaman Sprite Sheet_101
+    21300564: Megaman Sprite Sheet_102
+    21300566: Megaman Sprite Sheet_103
+    21300568: Megaman Sprite Sheet_104
+    21300570: Megaman Sprite Sheet_105
+    21300572: Megaman Sprite Sheet_106
+    21300574: Megaman Sprite Sheet_107
+    21300576: Megaman Sprite Sheet_108
+    21300578: Megaman Sprite Sheet_109
+    21300580: Megaman Sprite Sheet_110
+    21300582: Megaman Sprite Sheet_111
+    21300584: Megaman Sprite Sheet_112
+    21300586: Megaman Sprite Sheet_113
+    21300588: Megaman Sprite Sheet_114
+    21300590: Megaman Sprite Sheet_115
+    21300592: Megaman Sprite Sheet_116
+    21300594: Megaman Sprite Sheet_117
+    21300596: Megaman Sprite Sheet_118
+    21300598: Megaman Sprite Sheet_119
+    21300600: Megaman Sprite Sheet_120
+    21300602: Megaman Sprite Sheet_121
+    21300604: Megaman Sprite Sheet_122
+    21300606: Megaman Sprite Sheet_123
+    21300608: Megaman Sprite Sheet_124
+    21300610: Megaman Sprite Sheet_125
+    21300612: Megaman Sprite Sheet_126
+    21300614: Megaman Sprite Sheet_127
+    21300616: Megaman Sprite Sheet_128
+    21300618: Megaman Sprite Sheet_129
+    21300620: Megaman Sprite Sheet_130
+    21300622: Megaman Sprite Sheet_131
+    21300624: Megaman Sprite Sheet_132
+    21300626: Megaman Sprite Sheet_133
+    21300628: Megaman Sprite Sheet_134
+    21300630: Megaman Sprite Sheet_135
+    21300632: Megaman Sprite Sheet_136
+    21300634: Megaman Sprite Sheet_137
+    21300636: Megaman Sprite Sheet_138
+    21300638: Megaman Sprite Sheet_139
+    21300640: Megaman Sprite Sheet_140
+    21300642: Megaman Sprite Sheet_141
+    21300644: Megaman Sprite Sheet_142
+    21300646: Megaman Sprite Sheet_143
+    21300648: Megaman Sprite Sheet_144
+    21300650: Megaman Sprite Sheet_145
+    21300652: Megaman Sprite Sheet_146
+    21300654: Megaman Sprite Sheet_147
+    21300656: Megaman Sprite Sheet_148
+    21300658: Megaman Sprite Sheet_149
+    21300660: Megaman Sprite Sheet_150
+    21300662: Megaman Sprite Sheet_151
+    21300664: Megaman Sprite Sheet_152
+    21300666: Megaman Sprite Sheet_153
+    21300668: Megaman Sprite Sheet_154
+    21300670: Megaman Sprite Sheet_155
+    21300672: Megaman Sprite Sheet_156
+    21300674: Megaman Sprite Sheet_157
+    21300676: Megaman Sprite Sheet_158
+    21300678: Megaman Sprite Sheet_159
+    21300680: Megaman Sprite Sheet_160
+    21300682: Megaman Sprite Sheet_161
+    21300684: Megaman Sprite Sheet_162
+    21300686: Megaman Sprite Sheet_163
+    21300688: Megaman Sprite Sheet_164
+    21300690: Megaman Sprite Sheet_165
+    21300692: Megaman Sprite Sheet_166
+    21300694: Megaman Sprite Sheet_167
+    21300696: Megaman Sprite Sheet_168
+    21300698: Megaman Sprite Sheet_169
+    21300700: Megaman Sprite Sheet_170
+    21300702: Megaman Sprite Sheet_171
+    21300704: Megaman Sprite Sheet_172
+    21300706: Megaman Sprite Sheet_173
+    21300708: Megaman Sprite Sheet_174
+    21300710: Megaman Sprite Sheet_175
+    21300712: Megaman Sprite Sheet_176
+    21300714: Megaman Sprite Sheet_177
+    21300716: Megaman Sprite Sheet_178
+    21300718: Megaman Sprite Sheet_179
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 295
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 318
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 296
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 296
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 310
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 296
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 295
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 264
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 264
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 264
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 264
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 263
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 264
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 264
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 230
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 231
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 231
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 231
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 231
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 230
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 230
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 230
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 237
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 241
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 197
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 197
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 193
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 195
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 195
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 193
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 194
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 194
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 201
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 211
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 203
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 195
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 156
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 155
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 156
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 159
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 159
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 159
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 157
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 162
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 157
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 123
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 123
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 102
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 123
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 123
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 123
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 123
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 90
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 106
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 102
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 90
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 90
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 90
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 90
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 58
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 58
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 57
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 58
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 56
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 56
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 9
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman Sprite Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
